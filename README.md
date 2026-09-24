@@ -1,2 +1,3 @@
 # To-Do
-experiment 
+experiment repository 
+about my passion for plants 
